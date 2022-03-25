@@ -1,0 +1,143 @@
+
+ [
+    
+    {
+        "key":1,
+        "teacher":"Dan Cederholm",
+        "title":"Getting Started in Apple Motion 5",
+        "student": " 1440 student",
+        "img": "https://wedev0.netlify.app/img2/img001.jpeg",
+        "description":"Learn functionality and helpful Apps for Apple Watch.  ",
+        "time":"3h 30m",
+        "fee": "10$"
+    },
+
+
+
+    {
+        "key":2,
+        "teacher":"Tom Preston-Werner",
+        "title":"imove -the complete class",
+        "student": "3300 student",
+        "img": "https://wedev0.netlify.app/img2/img002.jpeg",
+        "description":"An overview of the current Mac lineup and what’s coming next.  ",
+        "time":"10h 00m",
+        "fee": "40$"
+    },
+    
+    {
+        "key":3,
+        "teacher":"Matt Mickiewicz",
+        "title":"iMovie Mastery Course - Learn How To Make Movies in 25 min ",
+        "student": "2300 student",
+        "img": "https://wedev0.netlify.app/img2/img003.jpeg",
+        "description":"Learn the basics of using an iPhone or iPad. ",
+        "time":"4h 00m",
+        "fee": "39$"
+    },
+
+
+    {
+        "key":4,
+        "teacher":"Adelle Charles",
+        "title":"Apple Mac Os For Beginners ",
+        "student": "5000 student",
+        "img": "https://wedev0.netlify.app/img2/img004.jpeg",
+        "description":"More about using iOS 14 on iPhone or iPad.  ",
+        "time":"5h 10m",
+        "fee": "58$"
+    },
+
+    {
+        "key":5,
+        "teacher":"Nick Finck",
+        "title":"Create Your Own Apple Productivity System ",
+        "student": "1000 student",
+        "img": "https://wedev0.netlify.app/img2/img005.jpeg",
+        "description":"Learn how to use Photos to organize and enhance photos on your Mac or iPad/iPhone and sync via iCloud. ",
+        "time":"6h 40m",
+        "fee": "33$"
+    },
+
+
+    {
+        "key":6,
+        "teacher":"Aarron Walter",
+        "title":"Creating Holiday Cards and Gifts Workshop ",
+        "student": "330 student",
+        "img": "https://wedev0.netlify.app/img2/img006.jpeg",
+        "description":"Organize photos on Mac or iPad, then create photo cards and gifts to be shipped to your home.  ",
+        "time":"1h 30mm",
+        "fee": "50$"
+    },
+
+
+    {
+        "key":7,
+        "teacher":"fran solo",
+        "title":"Siri, Dictation and Accessibility in iOS 15 & Big Sur",
+        "student": "500 student",
+        "img": "https://wedev0.netlify.app/img2/img007.jpeg",
+        "description":"With help from the Cloud, learn to use iPad exclusively as a Mac or PC replacement! ",
+        "time":"apple0011@dev.com",
+        "fee": "20$"
+    },
+
+
+    {
+        "key":8,
+        "teacher":" cilin Hwang",
+        "title":"Apple Keynote - Presentations on Mac OS X ",
+        "student": "300 student",
+        "img": "https://wedev0.netlify.app/img2/img003.jpeg",
+        "description":"Using Apple’s productivity apps to create documents and presentations on your Mac.  ",
+        "time":"2h 40m",
+        "fee": "40$"
+    },
+
+
+    {
+        "key":9,
+        "teacher":"Dennis Hwang",
+        "title":"Apple 3D Touch - 7 Tips and Tricks for Your iPhone in iOS 10 and Above ",
+        "student": "6h 30m",
+        "img": "https://wedev0.netlify.app/img2/img008.jpeg",
+        "description":"Using Apple’s productivity apps to create documents and presentations on your Mac.  ",
+        "time":"7h 10m ",
+        "fee": "10$"
+    },
+
+    {
+        "key":10,
+        "teacher":"jerry Banfield",
+        "title":"Camtasia 2 Essentials: My Favorite Recording Software on Mac! ",
+        "student": "400 student",
+        "img": "https://wedev0.netlify.app/img2/img009.jpeg",
+        "description":"Using Apple’s productivity apps to create documents and presentations on your Mac.  ",
+        "time":"1h 30m",
+        "fee": "80$"
+    },
+
+    {
+        "key":11,
+        "teacher":"Aarron Walter",
+        "title":"Creating Holiday Cards and Gifts Workshop ",
+        "student": "330 student",
+        "img": "https://wedev0.netlify.app/img2/img006.jpeg",
+        "description":"Organize photos on Mac or iPad, then create photo cards and gifts to be shipped to your home.  ",
+        "time":"1h 30mm",
+        "fee": "20$"
+    },
+
+    {
+        "key":12,
+        "teacher":"jamess Banfield",
+        "title":"With help from the Cloud, learn to use iPad exclusively as a Mac or PC replacement! ",
+        "student": "200 student",
+        "img": "https://wedev0.netlify.app/img2/img002.jpeg",
+        "description":"Using Apple’s productivity apps to create documents and presentations on your Mac.  ",
+        "time":"1h 30m",
+        "fee": "30$"
+    }
+    
+]
